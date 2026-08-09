@@ -24,3 +24,6 @@ This repository serves as a personal workbook to track my daily coding practice,
 * `tuple_indexing.py` – Practice #2: Tuple declaration and element indexing
 * `set_operations.py` – Practice #3: Set creation and intersection math
 * `dictionary_keys.py` – Practice #4: Dictionary creation and key extraction
+
+#### Topic 47: Creating Custom Exceptions in Python
+* `student_management_system.py` – Practice #5: Interactive CLI program demonstrating OOP classes, methods, grade generation, and input error handling
