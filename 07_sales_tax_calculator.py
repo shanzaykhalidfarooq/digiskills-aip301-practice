@@ -1,4 +1,4 @@
-#Sales Tax Calculator
+#Sales Tax Calculator (Hands-on Exercise 1)
 total_sales = 0
 sales_employees = 5
 

@@ -1,4 +1,4 @@
-#Bank Account System
+#Bank Account System (Hands-on Exercise 1)
 class Customer:
     def __init__(self, name, account):
         self.name = name
